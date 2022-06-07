@@ -1,5 +1,5 @@
-//#define trig=6;
-//#define echo=5;
+//trig=6;
+//echo=5;
 float duration, distance;
 void setup()
 {
